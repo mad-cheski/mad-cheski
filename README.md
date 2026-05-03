@@ -30,5 +30,6 @@ Backend developer passionated about infraestructure and networking
 - eBPF - i love messing around with the kernel.
 - Discord - used to make some administration bots and exploits.
 - Reverse Engineering.
+- CyberSecurity.
 - Networking and Infraestructure.
-- military - proudly served my country in the communications branch.
+- Military - proudly served my country in the communications branch.
